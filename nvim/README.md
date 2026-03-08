@@ -1,0 +1,1 @@
+these dotfiles may need manual installation of some tools and latest neovim some plugins will not work in the os package manager neovim download from github and then run we are using lazy package manager to install all these plugins and mason 
